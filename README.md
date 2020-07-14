@@ -5,3 +5,4 @@ WebSocket protocol is a separate protocol from HTTP
 see socket.io to learn more about socket
 npm i socket.io
 
+chatappapplic.herokuapp.com
